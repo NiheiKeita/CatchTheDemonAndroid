@@ -12,11 +12,14 @@
         android:theme="@style/Theme.CatchTheDemon">
         <activity
             android:name=".DescriptionActivity"
-            android:screenOrientation="portrait" />
+            android:screenOrientation="portrait"
+            android:exported="true"/>
         <activity android:name=".GameActivity"
-            android:screenOrientation="portrait"/>
+            android:screenOrientation="portrait"
+            android:exported="true"/>
         <activity android:name=".TopActivity"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
