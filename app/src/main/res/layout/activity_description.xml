@@ -25,7 +25,7 @@
         android:id="@+id/text_1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="時は昔、たぶん３０年ぐらい前・・人食い鬼が突然湧き出して、近所の神社の賽銭泥棒や信号無視を繰り返しておったそうな。"
+        android:text="時は昔、たぶん３０年ぐらい前・・鬼が突然湧き出して、近所の神社の賽銭泥棒や信号無視を繰り返しておったそうな。"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/title"
